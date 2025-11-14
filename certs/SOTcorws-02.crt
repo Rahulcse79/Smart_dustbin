@@ -1,0 +1,90 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            6c:f7:77:9d:b0:ec:fe:88:b5:36:17:ea:88:79:b8:75
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=CDOT-M2M-CA-SUB1
+        Validity
+            Not Before: Aug  5 07:27:13 2025 GMT
+            Not After : Aug  3 07:27:13 2032 GMT
+        Subject: C=IN, ST=Uttar Pradesh, L=Noida, O=Coral Telecom Ltd, CN=smartwastemgmt.coraltele.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:d0:91:5e:6c:5e:68:e4:64:ed:6c:9b:b8:fe:6f:
+                    65:3d:89:ef:86:93:bc:0d:ea:4b:2d:23:2a:49:02:
+                    b1:ec:89:11:a0:84:4a:67:45:b1:dc:fa:31:3c:2c:
+                    1d:62:b3:06:44:88:b6:a0:56:cf:8c:97:54:bc:2f:
+                    47:3e:dc:e9:d0:cb:1f:92:02:49:73:84:02:b0:a2:
+                    c3:32:53:84:c7:4f:80:39:03:3f:eb:0c:51:81:6d:
+                    54:ef:41:f5:a4:06:a6:da:05:dc:1e:5f:cb:db:54:
+                    59:36:76:95:0e:b6:ee:ca:4f:24:e3:88:1c:a1:20:
+                    07:1b:0c:5b:de:af:4b:a5:9d:f6:07:28:af:5d:89:
+                    25:5d:c9:7c:c8:45:d3:fb:07:a1:9f:33:e5:7d:2f:
+                    d8:14:76:e7:e0:a9:1f:f0:65:e4:a5:fb:82:26:47:
+                    ed:91:7c:85:4e:80:96:ee:e2:a7:95:40:15:c1:1e:
+                    4e:3b:65:0e:1a:34:a0:00:f6:69:4e:0c:bc:e4:7f:
+                    2f:14:ca:b5:6c:a9:e4:c1:4d:23:a3:11:20:a6:7a:
+                    16:a2:f2:f0:3d:1f:09:9d:ea:2e:72:07:3d:73:0e:
+                    28:99:f0:4a:8e:1e:0d:e4:99:32:9b:98:56:8c:b9:
+                    8d:20:03:ae:4a:14:59:32:3a:a8:ea:31:5b:ff:82:
+                    9b:25
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                C8:8C:37:24:E4:D1:E9:E3:BD:9E:05:49:B0:6B:54:74:DD:E4:53:20
+            X509v3 Authority Key Identifier: 
+                keyid:E5:BB:F5:71:FC:95:33:10:C5:C1:28:1D:3C:88:4D:73:A6:47:A8:40
+                DirName:/CN=CDOT-M2M-CA
+                serial:DB:BC:85:38:30:96:4E:C3:53:69:5E:94:40:29:14:89
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Subject Alternative Name: 
+                URI:mqtts://ccsp.m2m.minfoway.com/SOTcorws-01
+    Signature Algorithm: sha256WithRSAEncryption
+         bd:62:39:6f:9e:c0:ea:b4:d5:7b:f6:30:7c:eb:0f:e8:b3:e5:
+         d8:75:36:f4:88:5d:17:8e:11:96:55:45:3c:27:30:c2:4f:08:
+         f1:98:2d:0a:d8:9b:83:44:fa:43:ed:15:3d:62:ba:c2:8b:8f:
+         9f:71:80:d8:a7:ac:a4:55:b1:38:94:3f:c3:72:42:e7:df:b2:
+         5a:68:5a:21:fa:01:d9:6a:a3:24:d5:bd:51:b5:cd:c6:12:8b:
+         bb:39:6d:f5:a9:8a:7b:3c:e0:22:10:30:32:09:9f:fc:09:49:
+         7d:e9:bd:e8:f8:79:6e:f0:3d:f0:21:9d:55:8b:dd:d5:74:6d:
+         9b:da:ad:27:8c:19:a6:4a:13:75:2e:31:72:67:32:ab:3f:04:
+         90:1d:e5:77:30:8f:68:6a:4b:1d:97:a9:f6:7f:bc:63:41:9f:
+         90:41:35:78:d9:1c:4d:b9:21:0d:a4:93:1c:b0:60:8c:5c:4d:
+         78:81:9c:d3:d1:5d:70:49:5c:48:66:fc:27:cf:da:a1:8e:b8:
+         a4:da:60:8e:d0:b0:44:9a:26:4d:8f:d7:9f:d7:8c:95:d9:dd:
+         31:8b:b1:1f:87:33:e2:ee:82:cb:29:5e:2f:b6:dc:7d:08:a8:
+         7b:be:c6:b7:1f:51:6d:4d:a0:e5:3f:13:db:8d:10:9d:ef:29:
+         fc:a9:e6:03
+-----BEGIN CERTIFICATE-----
+MIID8zCCAtugAwIBAgIQbPd3nbDs/oi1NhfqiHm4dTANBgkqhkiG9w0BAQsFADAb
+MRkwFwYDVQQDDBBDRE9ULU0yTS1DQS1TVUIxMB4XDTI1MDgwNTA3MjcxM1oXDTMy
+MDgwMzA3MjcxM1oweDELMAkGA1UEBhMCSU4xFjAUBgNVBAgMDVV0dGFyIFByYWRl
+c2gxDjAMBgNVBAcMBU5vaWRhMRowGAYDVQQKDBFDb3JhbCBUZWxlY29tIEx0ZDEl
+MCMGA1UEAwwcc21hcnR3YXN0ZW1nbXQuY29yYWx0ZWxlLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBANCRXmxeaORk7WybuP5vZT2J74aTvA3qSy0j
+KkkCseyJEaCESmdFsdz6MTwsHWKzBkSItqBWz4yXVLwvRz7c6dDLH5ICSXOEArCi
+wzJThMdPgDkDP+sMUYFtVO9B9aQGptoF3B5fy9tUWTZ2lQ627spPJOOIHKEgBxsM
+W96vS6Wd9gcor12JJV3JfMhF0/sHoZ8z5X0v2BR25+CpH/Bl5KX7giZH7ZF8hU6A
+lu7ip5VAFcEeTjtlDho0oAD2aU4MvOR/LxTKtWyp5MFNI6MRIKZ6FqLy8D0fCZ3q
+LnIHPXMOKJnwSo4eDeSZMpuYVoy5jSADrkoUWTI6qOoxW/+CmyUCAwEAAaOB1TCB
+0jAJBgNVHRMEAjAAMB0GA1UdDgQWBBTIjDck5NHp472eBUmwa1R03eRTIDBOBgNV
+HSMERzBFgBTlu/Vx/JUzEMXBKB08iE1zpkeoQKEapBgwFjEUMBIGA1UEAwwLQ0RP
+VC1NMk0tQ0GCEQDbvIU4MJZOw1NpXpRAKRSJMBMGA1UdJQQMMAoGCCsGAQUFBwMC
+MAsGA1UdDwQEAwIHgDA0BgNVHREELTArhiltcXR0czovL2Njc3AubTJtLm1pbmZv
+d2F5LmNvbS9TT1Rjb3J3cy0wMTANBgkqhkiG9w0BAQsFAAOCAQEAvWI5b57A6rTV
+e/YwfOsP6LPl2HU29IhdF44RllVFPCcwwk8I8ZgtCtibg0T6Q+0VPWK6wouPn3GA
+2KespFWxOJQ/w3JC59+yWmhaIfoB2WqjJNW9UbXNxhKLuzlt9amKezzgIhAwMgmf
+/AlJfem96Ph5bvA98CGdVYvd1XRtm9qtJ4wZpkoTdS4xcmcyqz8EkB3ldzCPaGpL
+HZep9n+8Y0GfkEE1eNkcTbkhDaSTHLBgjFxNeIGc09FdcElcSGb8J8/aoY64pNpg
+jtCwRJomTY/Xn9eMldndMYuxH4cz4u6CyyleL7bcfQioe77Gtx9RbU2g5T8T240Q
+ne8p/KnmAw==
+-----END CERTIFICATE-----

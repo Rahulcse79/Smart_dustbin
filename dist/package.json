@@ -1,0 +1,24 @@
+{
+  "name": "eams2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "build": "mkdir -p dist && cp -r index.js package.json dist/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "mongoose": "^8.19.3",
+    "mqtt": "^5.14.1",
+    "ws": "^8.18.3"
+  }
+}
